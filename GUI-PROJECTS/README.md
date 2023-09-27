@@ -40,6 +40,12 @@ Use the following command to check the GTK version:
 
 ## Usage
 Each project usage has its own instructions in the project README.md file.
+CD into Projects directories
+The hello_world_gui.c in the root of the GUI-PROJECTS can be compiled using the code below in your terminal.
+Also, other projects can use same pattern or otherwise.
+ 
+## Compiling
+	gcc -o hello_world_gui hello_world_gui.c `pkg-config --libs --cflags gtk+-3.0`
 
 ## Contributing
 If there will be contribution it will be updated on how to go about it.

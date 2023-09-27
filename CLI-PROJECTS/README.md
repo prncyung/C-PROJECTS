@@ -34,9 +34,7 @@ To use
 -- File can be compiled by using the gcc compiler.
 -- Compile files can give different output due to the OS type.
 
-## To compile
-Just type the following in the commang prompt.
-	Example: hello.c
+## To compile. Just type the following in the commang prompt.Example: hello.c
 	gcc hello.c -o hello 
 
 ## To Run

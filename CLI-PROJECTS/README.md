@@ -1,4 +1,4 @@
-## C GUI PROJECTS
+## C CLI PROJECTS
 This projects will contain C projects using Command Line Interface (CLI).
 
 ## Language
